@@ -76,7 +76,7 @@ Olá! Sou **Letícia Zamorano**. Gosto de unir **criatividade, tecnologia e inte
 
 > Os cards apresentam áreas de estudo e trabalhos realizados; links para repositórios específicos podem ser adicionados quando publicados.
 
-### `05 // CURRENT_OBJECTIVES`
+
 
 ```bash
 leticia@dev-system:~$ ./roadmap --status
@@ -91,7 +91,7 @@ leticia@dev-system:~$ ./roadmap --status
 SYSTEM STATUS: LEARNING IN PROGRESS ✦
 ```
 
-### `06 // GITHUB_ANALYTICS`
+
 
 <h2>06 // GITHUB_ANALYTICS</h2>
 
@@ -99,7 +99,7 @@ SYSTEM STATUS: LEARNING IN PROGRESS ✦
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=leticiazamorano&layout=compact&theme=radical" alt="Linguagens mais utilizadas" height="170">
 </p>
 
-### `07 // ACHIEVEMENTS`
+
 
 
 <h2>07 // ACHIEVEMENTS</h2>
@@ -107,7 +107,7 @@ SYSTEM STATUS: LEARNING IN PROGRESS ✦
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=leticiazamorano&theme=radical" alt="Troféus do GitHub">
 </p>
-### `08 // CONTRIBUTION_SNAKE`
+
 
 <h2 align="center">🐍 CONTRIBUTION_SNAKE</h2>
 
@@ -118,7 +118,7 @@ SYSTEM STATUS: LEARNING IN PROGRESS ✦
     width="100%"
   />
 </p>
-### `09 // CONNECT`
+
 
 <div align="center">
 <a href="https://github.com/leticiazamorano"><img src="https://img.shields.io/badge/GITHUB-LETICIAZAMORANO-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
