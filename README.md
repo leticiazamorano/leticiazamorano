@@ -120,12 +120,12 @@ SYSTEM STATUS: LEARNING IN PROGRESS ✦
 </p>
 
 
+
+
+<h2 align="center">09 // CONNECT_WITH_ME</h2>
 <div align="center">
 <a href="https://github.com/leticiazamorano"><img src="https://img.shields.io/badge/GITHUB-LETICIAZAMORANO-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
-
-<h2 align="center">09 // CONNECT_WITH_ME</h2>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/leticia-zamorano-03197b243/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
