@@ -139,11 +139,11 @@ SYSTEM STATUS: LEARNING IN PROGRESS ✦
 <p align="center">
   <sub>💜 Let's connect and build something amazing together!</sub>
 </p>
----
+
 
 <div align="center">
 
-**`SYSTEM MESSAGE // KEEP CREATING. KEEP LEARNING.`**
+**`KEEP CREATING. KEEP LEARNING.`**
 
 *Made with 💜 by Letícia Zamorano*
 
