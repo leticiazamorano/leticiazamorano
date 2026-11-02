@@ -92,37 +92,31 @@ SYSTEM STATUS: LEARNING IN PROGRESS ✦
 ```
 
 ### `06 // GITHUB_ANALYTICS`
-<h2 align="center">📊 GitHub Analytics</h2>
+
+<h2>06 // GITHUB_ANALYTICS</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=leticiazamorano&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiazamorano&layout=compact&theme=radical" alt="Linguagens mais utilizadas">
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=leticiazamorano&theme=react-dark&color=bb86fc&line=ff69b4&point=ffffff" alt="Gráfico de atividades">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=leticiazamorano&layout=compact&theme=radical" alt="Linguagens mais utilizadas" height="170">
 </p>
 
 ### `07 // ACHIEVEMENTS`
 
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2>07 // ACHIEVEMENTS</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leticiazamorano&theme=radical&no-frame=true&column=4" alt="GitHub Trophies">
+  <img src="https://github-trophies.vercel.app/?username=leticiazamorano&theme=radical" alt="Troféus do GitHub">
 </p>
-
-
 ### `08 // CONTRIBUTION_SNAKE`
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/leticiazamorano/leticiazamorano/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake contribution animation — disponível após executar o workflow" />
-</div>
-<h2 align="center">🐍 My Contribution Snake</h2>
+<h2 align="center">🐍 CONTRIBUTION_SNAKE</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/leticiazamorano/leticiazamorano/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
+  <img
+    src="https://raw.githubusercontent.com/leticiazamorano/leticiazamorano/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake Animation"
+    width="100%"
+  />
 </p>
 ### `09 // CONNECT`
 
