@@ -96,7 +96,7 @@ Projeto desenvolvido com HTML, CSS e JavaScript, utilizando eventos e manipulaç
 [![VIEW PROJECT](https://img.shields.io/badge/VIEW_PROJECT-ACCESS_CODE-FF69B4?style=for-the-badge&labelColor=171123&logo=github&logoColor=white)](https://github.com/leticiazamorano/Checkpoints-JavaScript)
 
 
-<h2>06 // GITHUB_ANALYTICS</h2>
+<h2>GITHUB_ANALYTICS</h2>
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=leticiazamorano&layout=compact&theme=radical" alt="Linguagens mais utilizadas" height="170">
