@@ -23,7 +23,7 @@
 <p align="center">
   <sub>Front-End Development • JavaScript • Python • Artificial Intelligence</sub>
 </p>
----
+
 
 ###  ABOUT_ME!
 
@@ -61,7 +61,8 @@ Olá! Sou **Letícia Zamorano**. Gosto de unir **criatividade, tecnologia e inte
   💜 Sempre em busca de novos desafios, projetos e experiências
   que me permitam evoluir como desenvolvedora.
 </p>
-###  TECH_STACK`
+
+### TECH_STACK`
 
 <div align="center">
 
