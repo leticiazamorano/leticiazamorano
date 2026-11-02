@@ -83,26 +83,18 @@ Olá! Sou **Letícia Zamorano**. Gosto de unir **criatividade, tecnologia e inte
 </div>
 
 ###  PROJECTS`
+### 🛍️ Checkpoints JavaScript
 
+**Vitrine Interativa de Produtos**
 
-<h2>05 // PROJECTS</h2>
+Projeto desenvolvido com HTML, CSS e JavaScript, utilizando eventos e manipulação do DOM para alternar produtos e imagens de forma interativa.
 
-<table>
-  <tr>
-    <td>
-      <h3>🛍️ Checkpoints JavaScript</h3>
-      <p>
-        Vitrine Interativa de Produtos:
-        projeto com HTML, CSS e JavaScript,
-        utilizando eventos e manipulação do DOM.
-      </p>
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-8A2BE2?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF69B4?style=flat-square&logo=javascript&logoColor=white)
 
-      <a href="https://github.com/leticiazamorano/Checkpoints-JavaScript">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-ACCESS_CODE-FF69B4?style=for-the-badge&labelColor=171123&logo=github&logoColor=white" alt="Ver projeto">
-      </a>
-    </td>
-  </tr>
-</table>
+[![VIEW PROJECT](https://img.shields.io/badge/VIEW_PROJECT-ACCESS_CODE-FF69B4?style=for-the-badge&labelColor=171123&logo=github&logoColor=white)](https://github.com/leticiazamorano/Checkpoints-JavaScript)
+
 
 <h2>06 // GITHUB_ANALYTICS</h2>
 
