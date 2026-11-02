@@ -12,7 +12,7 @@
 
 ---
 
-### `01 // ABOUT_ME`
+###  ABOUT_ME!
 
 ```python
 class LeticiaZamorano:
@@ -25,7 +25,7 @@ class LeticiaZamorano:
 
 Olá! Sou **Letícia Zamorano**. Gosto de unir **criatividade, tecnologia e interfaces bem construídas**. Estou desenvolvendo minhas habilidades em programação e explorando as possibilidades da **Inteligência Artificial**.
 
-### `02 // TECH_STACK`
+###  TECH_STACK`
 
 <div align="center">
 
@@ -39,13 +39,13 @@ Olá! Sou **Letícia Zamorano**. Gosto de unir **criatividade, tecnologia e inte
 
 </div>
 
-### `03 // TOOLS`
+###  TOOLS`
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=vscode,git,github,figma&theme=dark" alt="VS Code, Git, GitHub e Figma" />
 </div>
 
-### `04 // PROJECTS`
+###  PROJECTS`
 
 <table>
 <tr>
@@ -102,7 +102,7 @@ SYSTEM STATUS: LEARNING IN PROGRESS ✦
 
 
 
-<h2>07 // ACHIEVEMENTS</h2>
+<h2> ACHIEVEMENTS</h2>
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=leticiazamorano&theme=radical" alt="Troféus do GitHub">
@@ -122,7 +122,7 @@ SYSTEM STATUS: LEARNING IN PROGRESS ✦
 
 
 
-<h2 align="center">09 // CONNECT_WITH_ME</h2>
+<h2 align="center"> CONNECT_WITH_ME</h2>
 <div align="center">
 <a href="https://github.com/leticiazamorano"><img src="https://img.shields.io/badge/GITHUB-LETICIAZAMORANO-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
