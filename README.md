@@ -115,7 +115,11 @@ SYSTEM STATUS: LEARNING IN PROGRESS ✦
 <div align="center">
 <img src="https://raw.githubusercontent.com/leticiazamorano/leticiazamorano/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake contribution animation — disponível após executar o workflow" />
 </div>
+<h2 align="center">🐍 My Contribution Snake</h2>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/leticiazamorano/leticiazamorano/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
+</p>
 ### `09 // CONNECT`
 
 <div align="center">
