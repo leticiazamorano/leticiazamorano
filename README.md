@@ -10,6 +10,19 @@
 
 </div>
 
+<!-- SYSTEM STATUS -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPEN_TO_WORK-FF69B4?style=for-the-badge&labelColor=171123&logo=github&logoColor=white" alt="Open to Work">
+</p>
+
+<p align="center">
+  <strong>💜 Disponível para oportunidades de estágio em tecnologia</strong>
+</p>
+
+<p align="center">
+  <sub>Front-End Development • JavaScript • Python • Artificial Intelligence</sub>
+</p>
 ---
 
 ###  ABOUT_ME!
@@ -25,6 +38,29 @@ class LeticiaZamorano:
 
 Olá! Sou **Letícia Zamorano**. Gosto de unir **criatividade, tecnologia e interfaces bem construídas**. Estou desenvolvendo minhas habilidades em programação e explorando as possibilidades da **Inteligência Artificial**.
 
+<!-- OPEN TO WORK -->
+
+<h2 align="center">💼 OPEN_TO_OPPORTUNITIES</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work">
+</p>
+
+<p align="center">
+  🎓 Estudante de tecnologia, apaixonada por desenvolvimento
+  Front-End, programação e Inteligência Artificial.
+</p>
+
+<p align="center">
+  🚀 Atualmente aberta a oportunidades de
+  <strong>estágio, aprendizado e desenvolvimento profissional</strong>
+  nas áreas de tecnologia, desenvolvimento de software e IA.
+</p>
+
+<p align="center">
+  💜 Sempre em busca de novos desafios, projetos e experiências
+  que me permitam evoluir como desenvolvedora.
+</p>
 ###  TECH_STACK`
 
 <div align="center">
