@@ -84,35 +84,39 @@ Olá! Sou **Letícia Zamorano**. Gosto de unir **criatividade, tecnologia e inte
 
 ###  PROJECTS`
 
+
+<h2>05 // PROJECTS</h2>
+
 <table>
-<tr>
-<td width="50%" valign="top">
-<h3>🛍️ Vitrine Interativa</h3>
-<p>Alternância de produtos usando JavaScript e manipulação do DOM.</p>
-<img src="https://img.shields.io/badge/HTML-CSS%20%2B%20JS-bd60df?style=flat-square" alt="HTML CSS JavaScript" />
-</td>
-<td width="50%" valign="top">
-<h3>🏆 Placar Interativo</h3>
-<p>Placar com botões e atualização de valores via JavaScript.</p>
-<img src="https://img.shields.io/badge/JAVASCRIPT-DOM-ef67b2?style=flat-square" alt="JavaScript DOM" />
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🎨 Interfaces Front-End</h3>
-<p>Práticas de HTML e CSS com atenção a layout, tipografia e fidelidade visual.</p>
-<img src="https://img.shields.io/badge/HTML-CSS-9e6bff?style=flat-square" alt="HTML CSS" />
-</td>
-<td width="50%" valign="top">
-<h3>🤖 Explorando IA</h3>
-<p>Aprendizado e experimentação com conceitos e aplicações de inteligência artificial.</p>
-<img src="https://img.shields.io/badge/AI-LEARNING-f06ac5?style=flat-square" alt="Inteligência Artificial" />
-</td>
-</tr>
+  <tr>
+    <td>
+      <h3>🛍️ Checkpoints JavaScript</h3>
+
+      <p>
+        Repositório dedicado aos meus exercícios
+        e projetos práticos de JavaScript.
+      </p>
+
+      <p>
+        <strong>Projeto em destaque:</strong>
+        Vitrine Interativa de Produtos.
+        Uma interface que permite alternar
+        produtos e imagens com JavaScript,
+        utilizando eventos e manipulação do DOM.
+      </p>
+
+      <p>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+        <img src="https://img.shields.io/badge/CSS-8A2BE2?style=flat-square&logo=css&logoColor=white" alt="CSS">
+        <img src="https://img.shields.io/badge/JavaScript-FF69B4?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+      </p>
+
+      <a href="https://github.com/leticiazamorano/Checkpoints-JavaScript">
+        <img src="https://img.shields.io/badge/VIEW_PROJECT-ACCESS_CODE-FF69B4?style=for-the-badge&labelColor=171123&logo=github&logoColor=white" alt="Ver projeto no GitHub">
+      </a>
+    </td>
+  </tr>
 </table>
-
-> Os cards apresentam áreas de estudo e trabalhos realizados; links para repositórios específicos podem ser adicionados quando publicados.
-
 
 
 ```bash
