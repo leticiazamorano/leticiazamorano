@@ -92,23 +92,27 @@ SYSTEM STATUS: LEARNING IN PROGRESS ✦
 ```
 
 ### `06 // GITHUB_ANALYTICS`
+<h2 align="center">📊 GitHub Analytics</h2>
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=leticiazamorano&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=leticiazamorano&show_icons=true&theme=radical&hide_border=true&bg_color=0d0718&title_color=f471d1&icon_color=b56cff&text_color=e7d9f6" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiazamorano&layout=compact&theme=radical&hide_border=true&bg_color=0d0718&title_color=f471d1&text_color=e7d9f6" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiazamorano&layout=compact&theme=radical" alt="Linguagens mais utilizadas">
+</p>
 
-<img src="https://streak-stats.demolab.com?user=leticiazamorano&theme=radical&hide_border=true&background=0D0718&ring=BD6AFF&fire=F471D1&currStreakLabel=F471D1" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=leticiazamorano&bg_color=0d0718&color=f471d1&line=ad69f5&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-
-</div>
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=leticiazamorano&theme=react-dark&color=bb86fc&line=ff69b4&point=ffffff" alt="Gráfico de atividades">
+</p>
 
 ### `07 // ACHIEVEMENTS`
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=leticiazamorano&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub Trophies" />
-</div>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=leticiazamorano&theme=radical&no-frame=true&column=4" alt="GitHub Trophies">
+</p>
+
 
 ### `08 // CONTRIBUTION_SNAKE`
 
