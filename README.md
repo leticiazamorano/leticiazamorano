@@ -85,6 +85,7 @@ Olá! Sou **Letícia Zamorano**. Gosto de unir **criatividade, tecnologia e inte
 ###  PROJECTS`
 
 
+
 <h2>05 // PROJECTS</h2>
 
 <table>
@@ -117,20 +118,6 @@ Olá! Sou **Letícia Zamorano**. Gosto de unir **criatividade, tecnologia e inte
     </td>
   </tr>
 </table>
-
-
-```bash
-leticia@dev-system:~$ ./roadmap --status
-
-[✓] HTML & CSS fundamentals
-[✓] JavaScript DOM interactions
-[~] Improve responsive interfaces
-[~] Practice Python projects
-[~] Explore AI applications
-[>] Build a strong developer portfolio
-
-SYSTEM STATUS: LEARNING IN PROGRESS ✦
-```
 
 
 
